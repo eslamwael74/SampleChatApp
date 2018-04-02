@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="yellow_rcv_message">#71696c</color>
+    <color name="white">#ffffff</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="view_color">#d4d4d4</color>
+    <color name="gray">#FF7B7B7B</color>
+    <color name="black_chat_date">#cb000000</color>
+    <color name="red">#ba0d00</color>
+    <color name="green">#FF4CAF50</color>
+</resources>

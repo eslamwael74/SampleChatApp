@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleChatApp</string>
+    <string name="back">Back</string>
+    <string name="type_your_message">Type your message</string>
+    <string name="sent">sent</string>
+    <string name="failed">failed</string>
+    <string name="sending">sending...</string>
+    <string name="error_field_required">Error!</string>
+
+</resources>
